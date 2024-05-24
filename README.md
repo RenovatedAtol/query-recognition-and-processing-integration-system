@@ -1,9 +1,6 @@
 # query recognition and processing integration system
 This is custom component of Home Assistant.
-
-Derived from [OpenAI Conversation](https://www.home-assistant.io/integrations/openai_conversation/) with some new features such as call-service.
-
-## Additional Features
+##Features
 - Ability to call service of Home Assistant
 - Ability to create automation
 - Ability to get data from external API or web page
